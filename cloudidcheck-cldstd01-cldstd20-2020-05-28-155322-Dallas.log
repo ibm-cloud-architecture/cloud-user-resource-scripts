@@ -1,0 +1,603 @@
+Thu May 28 15:53:22 CDT 2020
+Dallas
+
+User:              cldstd01@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80raef0hb2f6sk8ak0   normal   1 hour ago   1         ams03      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd01-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd02@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80rlvf0tppk14k8akg   normal   1 hour ago   1         mil01      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd02-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd03@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80rvhd0ncnr21cg2a0   normal   1 hour ago   1         Dallas     1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd03-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd04@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80sa0d0crp8i363jgg   normal   1 hour ago   1         Dallas     1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd04-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd05@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80skof0ktpqt2vpsb0   normal   1 hour ago   1         mil01      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd05-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd06@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80svmd05cvnj5uvpjg   normal   1 hour ago   1         Dallas     1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd06-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd07@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81q73f0emei9pcc13g   normal   37 minutes ago   1         mil01      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd07-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd08@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80tqmf0io68jhcc12g   normal   1 hour ago   1         ams03      1.16.10_1533   -                     classic   
+
+Namespaces: 
+Namespace   
+cldstd08-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd09@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80u5jd0rk3jp9cg2ag   normal   1 hour ago   1         Dallas     1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd09-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd10@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created      Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br80uibf0d1o5c2vpsbg   normal   1 hour ago   1         ams03      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd10-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd11@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81qvpf04276tjktu6g   normal   39 minutes ago   1         ams03      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd11-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd12@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81ravd0j5pudj63jj0   normal   39 minutes ago   1         hou02      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd12-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd13@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81rl9f067p2esk8am0   normal   39 minutes ago   1         ams03      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd13-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd14@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81s0ef0qqpu5sk8amg   normal   39 minutes ago   1         ams03      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd14-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd15@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81schf0vvfngiqnkm0   normal   39 minutes ago   1         mil01      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd15-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd16@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81so1f0q0e653ktu70   normal   39 minutes ago   1         par01      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd16-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd17@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81t32f065acf2vpsd0   normal   39 minutes ago   1         mil01      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd17-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd18@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81tcad0jil6ipcg2c0   normal   39 minutes ago   1         hou02      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd18-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd19@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81tmhd0hb0g023fhs0   normal   39 minutes ago   1         hou02      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd19-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
+User:              cldstd20@us.ibm.com   
+
+Clusters: 
+Name           ID                     State    Created          Workers   Location   Version        Resource Group Name   Provider   
+cloudcluster   br81u00d0so52h363jjg   normal   40 minutes ago   1         hou02      1.16.10_1533   Default               classic   
+
+Namespaces: 
+Namespace   
+cldstd20-ns   
+
+IAM Service Instances: 
+No service instance found.
+
+Cloud Foundry Spaces: 
+dev
+
+Space:   dev
+
+Cloud Foundry Services & Service Keys: 
+No services found
+
+Cloud Foundry Apps: 
+No apps found
+
+
+
+
+
+---------------------
+
