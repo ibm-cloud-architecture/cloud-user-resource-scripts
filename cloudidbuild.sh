@@ -14,7 +14,7 @@
 #
 #
 
-scriptname="cloudidbuild-clusterns"
+scriptname="cloudidbuild"
 
 keyscript="./keys.sh"
 
