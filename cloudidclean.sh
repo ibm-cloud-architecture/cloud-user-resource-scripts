@@ -143,13 +143,15 @@ do
     ibmcloud resource service-instances | grep -Ev 'Retrieving|Getting|OK|Name|^$' | awk -F '  +' '{print $1}'| grep "No service instance found" | tee -a $logfile
   else
     rgservicelist=`ibmcloud resource service-instances | grep -Ev 'Retrieving|Getting|OK|Name|^$' | awk -F '  +' '{print $1}'`
+    rgserviceidlist=`ibmcloud resource service-instances --long | grep -Ev 'Retrieving|Getting|OK|Name|^$' | awk -F '  +' '{print $1}'`
     rgservicenum=`echo "$rgservicelist" | wc -l`
     for (( i = 1; i <= $rgservicenum; i++ ))
     do
       echo >> $logfile
       echo "IAM Service Instance: " | tee -a $logfile
       rgservicename=`echo "$rgservicelist" | sed -n ${i}p`
-      ibmcloud resource service-instance-delete "$rgservicename" --force --recursive | tee -a $logfile
+      rgserviceid=`echo "$rgserviceidlist" | sed -n ${i}p`
+      ibmcloud resource service-instance-delete "$rgserviceid" --force --recursive | tee -a $logfile
 #     rgservicekeylist=`ibmcloud resource service-keys | grep -Ev 'Retrieving|Getting|OK|Name|^$' | awk -F '  +' '{print $1}'`
 #      echo "IAM Service Keys: " | tee -a $logfile
 #      echo $rgservicekeylist | tee -a $logfile
@@ -248,7 +250,7 @@ do
       echo >> $logfile
       clustername=`echo "$clusterlist" | sed -n ${i}p`
       echo "Cluster: $clustername" | tee -a $logfile
-      ibmcloud ks cluster rm --cluster "$clustername" -f | tee -a $logfile
+      ibmcloud ks cluster rm --cluster "$clustername" -f --force-delete-storage| tee -a $logfile
     done
   fi
 
